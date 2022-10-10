@@ -1,0 +1,5 @@
+.env
+*.js.map
+*.js
+.vscode/**
+node_modules/**
